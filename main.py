@@ -1,7 +1,5 @@
 import ctypes
-import pyautogui as pag
 import time
-import random
 import keyboard
 
 # Prevent the system from going to sleep
